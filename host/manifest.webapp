@@ -1,0 +1,16 @@
+{
+"version": "1.0",
+"name": "MakeOnWeb Shop FirefoxOS",
+"description": "Route",
+"launch_path": "/josestrk/firefoxos/host/ruta.html",
+
+"icons": {
+"16":  "/josestrk/firefoxos/host/mow_16.png",
+"48":  "/josestrk/firefoxos/host/mow_48.png",
+"128": "/josestrk/firefoxos/host/mow_128.png"
+},
+"developer": {
+"name": "josestrk",
+"url": "http://makeonweb.com"
+}
+}
